@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroWep</string>
+    <string name="navigation_drawer_open">navigation_open</string>
+    <string name="navigation_drawer_close">navigation_close</string>
+    <string name="label_cancel">Cancel</string>
+    <string name="label_submit">Submit</string>
+    <string name="label_report">Edit Code</string>
+    <string name="label_type_your_comment">code</string>
+</resources>
